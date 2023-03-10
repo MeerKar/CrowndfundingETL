@@ -54,6 +54,6 @@ d) Using the database schema, create the tables in the correct order to handle t
 
 e) Verify the table creation by running a SELECT statement for each table.
 
-f) Import each CSV file into its corresponding SQL table.
+f) Import each CSV file into its corresponding SQL table
 
 g) Verify that each table has the correct data by running a SELECT statement for each.
